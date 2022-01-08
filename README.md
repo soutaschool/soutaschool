@@ -3,11 +3,6 @@
 My name is Sasaki Sota.  
 When I was in my first year of university, I decided that I wanted to create a platform to connect doctors and  
 people suffering from skin problems, and started learning programming.
-](https://github.com/soutaschool)
-[![](https://qiita-badge.apiapi.app/s/soutaschool/posts.svg)
-](http://qiita.com/soutaschool)
-[![](https://qiita-badge.apiapi.app/s/soutaschool/contributions.svg)
-](http://qiita.com/soutaschool)
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soutaschool&theme=dracula)
