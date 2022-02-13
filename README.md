@@ -2,7 +2,7 @@
 ### if you have a mind to do something, you can do it!
 My name is Sasaki Sota.  
 When I was in my first year of university, I decided that I wanted to create a platform to connect doctors and  
-people suffering from skin problems, and started learning programming.
+people suffering from skin problems, and started learning programming.  
 tech blog: https://developer-souta.com/
 
 
