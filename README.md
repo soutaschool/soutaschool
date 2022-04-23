@@ -1,11 +1,10 @@
 # Thank you for watching. 💻
 ### if you have a mind to do something, you can do it!
-Software Engineer.
-------------------------------------
-Profile: https://dev-sota.com
-Acvation: https://acvation.com
-Tech Blog: https://developer-souta.com
-
+#### Software Engineer.
+<p>------------------------------------</p>
+<p>Profile: https://dev-sota.com</p>
+<p>Acvation: https://acvation.com</p>
+<p>Tech Blog: https://developer-souta.com</p>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soutaschool&theme=dracula)
 
