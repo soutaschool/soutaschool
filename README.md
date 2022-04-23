@@ -1,9 +1,10 @@
 # Thank you for watching. 💻
 ### if you have a mind to do something, you can do it!
-My name is Sasaki Sota.  
-When I was in my first year of university, I decided that I wanted to create a platform to connect doctors and  
-people suffering from skin problems, and started learning programming.  
-tech blog: https://developer-souta.com/
+Software Engineer.
+------------------------------------
+Profile: https://dev-sota.com
+Acvation: https://acvation.com
+Tech Blog: https://developer-souta.com
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soutaschool&theme=dracula)
