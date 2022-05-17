@@ -7,7 +7,7 @@
 <p>Tech Blog: https://developer-souta.com</p>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soutaschool&theme=dracula)
-[![trophy](https://github-profile-trophy.vercel.app/?username=soutaschool&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![](https://github-profile-trophy.vercel.app/?username=soutaschool&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p>
 <a href="https://github.com/soutaschool">
