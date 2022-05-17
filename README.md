@@ -12,6 +12,7 @@
 <a href="https://github.com/soutaschool">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=soutaschool&count_private=true&show_icons=true&theme=dracula" />
 </a>
+[![trophy](https://github-profile-trophy.vercel.app/?username=soutaschool&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <a href="https://github.com/soutaschool">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soutaschool&layout=compact&theme=dracula" />
 </a>
