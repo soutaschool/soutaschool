@@ -16,8 +16,5 @@
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soutaschool&layout=compact&theme=dracula" />
 </a>
 </p>
-
-
-
-
-
+[![soutaschool's GitHub stats](https://github-readme-stats.vercel.app/api?username=soutaschool)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=soutaschool)](https://github.com/ryo-ma/github-profile-trophy)
