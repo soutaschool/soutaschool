@@ -15,9 +15,6 @@
 <a href="https://github.com/soutaschool">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soutaschool&layout=compact&theme=dracula" />
 </a>
-<a href="https://github.com/soutaschool/soutaschool/">
-  <img src="https://komarev.com/ghpvc/?username=soutaschool" alt="soutaschool" />
-</a>
 </p>
 
 
